@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://DiceQ-01.GitHub.io/sitemap.xml
