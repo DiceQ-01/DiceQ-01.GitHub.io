@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "骰子的书库",
     "description": "",
-    "home_page_url": "https://DiceQ-01.GitHub.io",
-    "feed_url": "https://DiceQ-01.GitHub.io/feed.json",
+    "home_page_url": "https://dice-q-01-git-hub-io.vercel.app",
+    "feed_url": "https://dice-q-01-git-hub-io.vercel.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "DiceQ"
     },
     "items": [
         {
-            "id": "https://DiceQ-01.GitHub.io/ni-hao-lu-xing-zhe.html",
-            "url": "https://DiceQ-01.GitHub.io/ni-hao-lu-xing-zhe.html",
+            "id": "https://dice-q-01-git-hub-io.vercel.app/ni-hao-lu-xing-zhe.html",
+            "url": "https://dice-q-01-git-hub-io.vercel.app/ni-hao-lu-xing-zhe.html",
             "title": "你好旅行者",
             "summary": "亲爱的旅者： 这里是一个在多重宇宙中漂泊的过客，用文字垒起的微小驿站。8年前，我的旅途从一座医院繁忙的接诊大厅开始，穿过危机四伏的病村；在阴影中守护流派的秘密；在国王大道上激战地精盗匪；在至绿镇击退来袭的火龙……我与无数旅伴短暂同行，又擦肩而过，直到我抵达这座空无一物的书库…… 这些文字对同行者的纪念，是标定来路的坐标，也是留给你的、在黑暗中仍微微发光的足迹。我们在此刻的量子泡沫里相遇，或许正意味着：在某个尚未坍缩的时空分支中，你的航迹曾与我的影子重叠。 愿书页间的星尘能照亮你的旅程。 毕竟所有的旅行者，终将在混沌的奇点重逢。 —— 你的同行者",
             "content_html": "<p class=\"ds-markdown-paragraph\">亲爱的旅者：</p>\n<p class=\"ds-markdown-paragraph\">这里是一个在多重宇宙中漂泊的过客，用文字垒起的微小驿站。8年前，我的旅途从一座医院繁忙的接诊大厅开始，穿过危机四伏的病村；在阴影中守护流派的秘密；在国王大道上激战地精盗匪；在至绿镇击退来袭的火龙……我与无数旅伴短暂同行，又擦肩而过，直到我抵达这座空无一物的书库……</p>\n<p class=\"ds-markdown-paragraph\">这些文字对同行者的纪念，是标定来路的坐标，也是留给你的、在黑暗中仍微微发光的足迹。我们在此刻的量子泡沫里相遇，或许正意味着：在某个尚未坍缩的时空分支中，你的航迹曾与我的影子重叠。</p>\n<p class=\"ds-markdown-paragraph\">愿书页间的星尘能照亮你的旅程。<br>毕竟所有的旅行者，终将在混沌的奇点重逢。</p>\n<p class=\"ds-markdown-paragraph\">—— 你的同行者</p>",

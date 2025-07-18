@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>骰子的书库</title>
-    <link href="https://DiceQ-01.GitHub.io/feed.xml" rel="self" />
-    <link href="https://DiceQ-01.GitHub.io" />
+    <link href="https://dice-q-01-git-hub-io.vercel.app/feed.xml" rel="self" />
+    <link href="https://dice-q-01-git-hub-io.vercel.app" />
     <updated>2025-07-18T01:50:36+03:30</updated>
     <author>
         <name>DiceQ</name>
     </author>
-    <id>https://DiceQ-01.GitHub.io</id>
+    <id>https://dice-q-01-git-hub-io.vercel.app</id>
 
     <entry>
         <title>你好旅行者</title>
         <author>
             <name>DiceQ</name>
         </author>
-        <link href="https://DiceQ-01.GitHub.io/ni-hao-lu-xing-zhe.html"/>
-        <id>https://DiceQ-01.GitHub.io/ni-hao-lu-xing-zhe.html</id>
+        <link href="https://dice-q-01-git-hub-io.vercel.app/ni-hao-lu-xing-zhe.html"/>
+        <id>https://dice-q-01-git-hub-io.vercel.app/ni-hao-lu-xing-zhe.html</id>
 
         <updated>2025-07-18T01:50:36+03:30</updated>
             <summary>
